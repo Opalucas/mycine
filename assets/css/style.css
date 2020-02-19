@@ -7,23 +7,34 @@ body {
 	text-align: center;
 	background-color: rgb(99, 91, 91);
 }
+
 strong {
 	font-weight: 600;
 }
-.form-inline .form-control{
+
+.form-inline .form-control {
 	width: 180px;
 	height: 30px;
 	border-color: red;
 }
-.form-inline .btn-outline-secondary{
+
+.form-inline .btn-outline-secondary {
 	width: 50px;
 	height: 30px;
 	color: red;
-    border-color: red;
+	border-color: red;
 }
-.pesquisa{
+
+.pesquisa {
 	padding-bottom: 3em;
 }
+
+.section-4 {
+	background-image: url("https://i.ytimg.com/vi/nrRw_WR5EFk/maxresdefault.jpg");
+	background-repeat: no-repeat;
+	background-position: 5em;
+}
+
 a {
 	color: #a365bc;
 	border-bottom: 1px dashed #a365bc;
@@ -45,9 +56,10 @@ h1, h2 {
 	line-height: 50px;
 	font-style: italic;
 }
-.logo{
-	font-family: "Bebas Neue", Arial; 
-    font-size: 50px; 
+
+.logo {
+	font-family: "Bebas Neue", Arial;
+	font-size: 50px;
 	color: rgb(255, 0, 0);
 }
 
@@ -59,12 +71,13 @@ h3 {
 	font-style: italic;
 	text-shadow: 0.1em 0.2em 0.10em black
 }
-.carousel-item img{
+
+.carousel-item img {
 	overflow: hidden;
 	max-width: 76%;
-    width: 700px;
-    height: 300px;
-    margin: 0 auto;
+	width: 700px;
+	height: 300px;
+	margin: 0 auto;
 }
 
 .medium-paragraph {
@@ -229,7 +242,7 @@ h3 {
 
 /***** Section 2 *****/
 
-.section-2-container{
+.section-2-container {
 	background-color: rgb(99, 91, 91);
 }
 
@@ -293,6 +306,6 @@ h3 {
 footer {
 	padding: 40px 0;
 }
-.copy{
+
+.copy {
 	color: white;
-}

@@ -117,7 +117,7 @@
 
     // Preload images
     $.each(this.images, function () {
-      $('<img />')[0].src = this;
+      $('<img /')[0].src = this;
     });    
 
     // Convenience reference to know if the container is body.
