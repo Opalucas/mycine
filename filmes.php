@@ -9,10 +9,8 @@
 
 	<!-- CSS -->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-		integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
-		integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 	<link rel="stylesheet" href="assets/css/animate.css">
 	<link rel="stylesheet" href="assets/css/style.css">
 	<link rel="stylesheet" href="assets/css/media-queries.css">
@@ -25,14 +23,14 @@
 </head>
 
 <body>
+	<?php include "menubar.php"; ?>
 	<!-- carrousel -->
 	<div class="top-content">
 		<div class="container-fluid">
 			<div id="carousel-example" class="carousel slide" data-ride="carousel">
 				<div class="carousel-inner row w-100 mx-auto" role="listbox">
 					<div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3 active">
-						<a href="https://drive.google.com/file/d/1ydsxqKHGQQEVEx2BZoXS44H-WG9JGvqO/view"
-							target="_blank">
+						<a href="https://drive.google.com/file/d/1ydsxqKHGQQEVEx2BZoXS44H-WG9JGvqO/view" target="_blank">
 							<img src="assets/img/bgfilmes/filme1.jpg" class="img-fluid mx-auto d-block" alt="img1">
 					</div>
 					<div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
@@ -96,8 +94,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://drive.google.com/file/d/1yC4NLaRoFNsjDN5VULgK4IqqAqQKaoM7/view" target="_blank"><img src="assets/img/bgfilmes/filme9.1.jpg"
-									class="img-fluid mx-auto d-block" alt="img1"></a>
+							<a href="https://drive.google.com/file/d/1yC4NLaRoFNsjDN5VULgK4IqqAqQKaoM7/view" target="_blank"><img src="assets/img/bgfilmes/filme9.1.jpg" class="img-fluid mx-auto d-block" alt="img1"></a>
 							<h3>Dente Por Dente</h3>
 						</div>
 					</div>
@@ -105,8 +102,7 @@
 				<div class="col-md-4 section-1-box wow fadeInDown">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme10.jpg"
-									class="img-fluid mx-auto d-block" alt="img2"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme10.jpg" class="img-fluid mx-auto d-block" alt="img2"></a>
 							<h3>Filme 10</h3>
 						</div>
 					</div>
@@ -114,8 +110,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme11.jpg"
-									class="img-fluid mx-auto d-block" alt="img3"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme11.jpg" class="img-fluid mx-auto d-block" alt="img3"></a>
 							<h3>Filme 11</h3>
 						</div>
 					</div>
@@ -123,8 +118,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme12.jpg"
-									class="img-fluid mx-auto d-block" alt="img4"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme12.jpg" class="img-fluid mx-auto d-block" alt="img4"></a>
 							<h3>Filme 12</h3>
 						</div>
 					</div>
@@ -132,8 +126,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme13.jpg"
-									class="img-fluid mx-auto d-block" alt="img5"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme13.jpg" class="img-fluid mx-auto d-block" alt="img5"></a>
 							<h3>Filme 13</h3>
 						</div>
 					</div>
@@ -141,8 +134,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme14.jpg"
-									class="img-fluid mx-auto d-block" alt="img6"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme14.jpg" class="img-fluid mx-auto d-block" alt="img6"></a>
 							<h3>Filme 14</h3>
 						</div>
 					</div>
@@ -164,8 +156,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme15.jpg"
-									class="img-fluid mx-auto d-block" alt="img1"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme15.jpg" class="img-fluid mx-auto d-block" alt="img1"></a>
 							<h3>Fimle 15</h3>
 						</div>
 					</div>
@@ -173,8 +164,7 @@
 				<div class="col-md-4 section-1-box wow fadeInDown">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme16.jpg"
-									class="img-fluid mx-auto d-block" alt="img2"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme16.jpg" class="img-fluid mx-auto d-block" alt="img2"></a>
 							<h3>Filme 16</h3>
 						</div>
 					</div>
@@ -182,8 +172,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme17.jpg"
-									class="img-fluid mx-auto d-block" alt="img3"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme17.jpg" class="img-fluid mx-auto d-block" alt="img3"></a>
 							<h3>Filme 17</h3>
 						</div>
 					</div>
@@ -191,8 +180,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme18.jpg"
-									class="img-fluid mx-auto d-block" alt="img4"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme18.jpg" class="img-fluid mx-auto d-block" alt="img4"></a>
 							<h3>Filme 18</h3>
 						</div>
 					</div>
@@ -200,8 +188,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme19.jpg"
-									class="img-fluid mx-auto d-block" alt="img5"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme19.jpg" class="img-fluid mx-auto d-block" alt="img5"></a>
 							<h3>Filme 19</h3>
 						</div>
 					</div>
@@ -209,8 +196,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme20.jpg"
-									class="img-fluid mx-auto d-block" alt="img6"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme20.jpg" class="img-fluid mx-auto d-block" alt="img6"></a>
 							<h3>Filme 20</h3>
 						</div>
 					</div>
@@ -232,8 +218,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme21.jpg"
-									class="img-fluid mx-auto d-block" alt="img1"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme21.jpg" class="img-fluid mx-auto d-block" alt="img1"></a>
 							<h3>Fimle 21</h3>
 						</div>
 					</div>
@@ -241,8 +226,7 @@
 				<div class="col-md-4 section-1-box wow fadeInDown">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme22.jpg"
-									class="img-fluid mx-auto d-block" alt="img2"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme22.jpg" class="img-fluid mx-auto d-block" alt="img2"></a>
 							<h3>Filme 22</h3>
 						</div>
 					</div>
@@ -250,8 +234,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme23.jpg"
-									class="img-fluid mx-auto d-block" alt="img3"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme23.jpg" class="img-fluid mx-auto d-block" alt="img3"></a>
 							<h3>Filme 23</h3>
 						</div>
 					</div>
@@ -259,8 +242,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme24.jpg"
-									class="img-fluid mx-auto d-block" alt="img4"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme24.jpg" class="img-fluid mx-auto d-block" alt="img4"></a>
 							<h3>Filme 24</h3>
 						</div>
 					</div>
@@ -268,8 +250,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme25.jpg"
-									class="img-fluid mx-auto d-block" alt="img5"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme25.jpg" class="img-fluid mx-auto d-block" alt="img5"></a>
 							<h3>Filme 25</h3>
 						</div>
 					</div>
@@ -277,8 +258,7 @@
 				<div class="col-md-4 section-1-box wow fadeInUp">
 					<div class="row">
 						<div class="col-md-8">
-							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme26.jpg"
-									class="img-fluid mx-auto d-block" alt="img6"></a>
+							<a href="https://..." target="_blank"><img src="assets/img/bgfilmes/filme26.jpg" class="img-fluid mx-auto d-block" alt="img6"></a>
 							<h3>Filme 26</h3>
 						</div>
 					</div>
@@ -300,29 +280,13 @@
 		</div>
 	</div>
 
-	<!-- Footer -->
-	<footer class="footer-container">
-
-		<div class="container">
-			<div class="row">
-				<div class="col copy">
-					copyright &copy; 2019
-				</div>
-
-			</div>
-		</div>
-
-	</footer>
+	<?php include "footer.php"; ?>
 
 	<!-- Javascript -->
 	<script src="assets/js/jquery-3.3.1.min.js"></script>
 	<script src="assets/js/jquery-migrate-3.0.0.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
-		integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-		crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-		integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 	<script src="assets/js/jquery.backstretch.min.js"></script>
 	<script src="assets/js/wow.min.js"></script>
 	<script src="assets/js/scripts.js"></script>
