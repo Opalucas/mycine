@@ -24,11 +24,11 @@
 
 <body>
     <?php include "menubar.php"; ?>
-    <H1>Bem Vindo ao Meu Cinema</H1>
-    <p>O que vai assistir dessa vez?</p>
-    <p><a href="filmes.php">Filmes</a></p>
-    <p><a href="series.php">Séries</a></p>
 
+    <!--Cards-->
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="assets/img/bgfilmes/filme1.jpg" alt="Filme 1">
+    </div>
 
 
 
