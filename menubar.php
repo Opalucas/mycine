@@ -25,25 +25,18 @@
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link scroll-link" href="#top-content">HOME</a>
+					<a class="nav-link scroll-link" href="index.php">INÍCIO</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link scroll-link" href="#section-1">Recentes</a>
+					<a class="nav-link scroll-link" href="#section-1">SÉRIES</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link scroll-link" href="#section-2">Populares</a>
+					<a class="nav-link scroll-link" href="#section-2">FILMES</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link scroll-link" href="#section-3">Cinema</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link scroll-link" href="#section-4">Sobre</a>
+					<a class="nav-link scroll-link" href="#section-3">MAIS RECENTES</a>
 				</li>
 			</ul>
-			<form class="form-inline my-2 my-lg-0">
-				<input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
-				<button class="btn btn-sm btn-outline-secondary" type="submit"><img class="pesquisa" src="assets/img/icons/pesquisa.png" alt="Pesquisar"></button>
-			</form>
 		</div>
 	</div>
 </nav>
