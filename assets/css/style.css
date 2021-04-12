@@ -83,8 +83,8 @@ h3 {
 .img-fluid{
 	overflow: hidden;
 	max-width: 85%;
-	width: 700px;
-	height: 280px;
+	width: 190px;
+	height: 300px;
 	margin: 0 0;
 }
 
@@ -312,8 +312,9 @@ h3 {
 /***** Footer *****/
 
 footer {
-	padding: 40px 0;
+	text-align: center;
 }
 
 .copy {
 	color: white;
+}
