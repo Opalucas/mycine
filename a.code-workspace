@@ -4,5 +4,18 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "ec2-18-214-208-89.compute-1.amazonaws.com",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "db-mycine",
+				"database": "dlpp4r96jnein",
+				"username": "bwcgbmcyhpleqy",
+				"password": "f6568105a98ea31641fc930a2d3ce7896a8fc7c1bab979dbfb3dd6bf41e223d8"
+			}
+		]
+	}
 }
